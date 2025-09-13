@@ -17,8 +17,13 @@ namespace Practice
             //implementation_abstraction ib = new implementation_abstraction();
             //ib.Voice();
 
-            linq l = new linq();
-            l.linqImplementation();
+            //linq l = new linq();
+            //l.linqImplementation();
+
+            //Reverse rv = new Reverse();
+            //rv.reverse();
+
+
         }
     }
 }
