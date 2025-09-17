@@ -23,7 +23,10 @@ namespace Practice
             //Reverse rv = new Reverse();
             //rv.reverse();
 
-
+            Method_Overriding mo = new Method_Overriding();
+            mo.Sound();
+            Method_Overriding mo1 = new overriding_implementation();
+            mo1.Sound();
         }
     }
 }
